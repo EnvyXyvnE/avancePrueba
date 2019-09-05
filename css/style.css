@@ -1,0 +1,55 @@
+body {
+    background-color: #2f3138;
+}
+header
+{
+    background-color: blueviolet;
+}
+
+
+
+
+.color1
+{
+    background-color: #f82249  ;
+    color:black;
+}
+
+
+.color2
+{
+    background-color: #fce4ec  ;
+    
+}
+
+footer
+{
+    background-color: #f82249 ;
+    color:black;
+}
+
+.alto
+{
+height: 160px;
+}
+
+
+body
+{
+  margin: 0;
+}
+.video
+{
+ width: 100%;
+ min-width: 100%;
+ min-width: 100%;
+}
+
+#block
+{
+
+ 
+    background-color: #e91e63;
+    position: '100% 100%';
+}
+
